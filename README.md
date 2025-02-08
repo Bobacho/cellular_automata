@@ -11,10 +11,18 @@ This project is a Java-based application that generates and visualizes cellular 
 ## Requirements
 
 - **Java Development Kit (JDK)**: Version 8 or higher.
-- **Integrated Development Environment (IDE)**: Recommended IDEs include IntelliJ IDEA, Eclipse, or any other Java-compatible IDE.
+- Gradle: Version 8 or higher
 
 ## Installation
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/cellular-automaton-generator.git
+   git clone https://github.com/Bobacho/cellular_automata.git
+
+2. Run the project:
+```bash
+   cd cellular_automata/
+   gradle run
+```
+```
+```
