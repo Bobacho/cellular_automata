@@ -24,5 +24,3 @@ This project is a Java-based application that generates and visualizes cellular 
    cd cellular_automata/
    gradle run
 ```
-```
-```
